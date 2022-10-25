@@ -1,0 +1,38 @@
+.home-container{
+    padding: 30px 20px;
+    font-size: 24px;
+}
+
+.home-content h1{
+    font-size: 1.2em;
+    letter-spacing: 0.02em;
+}
+
+.home-content h2{
+    font-size: 0.6em;
+    letter-spacing: 0.02em;
+    color: #7E7E7E;
+    margin-bottom: 35px;
+}
+
+.home-container button{
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+}
+
+.home-container button:hover{
+    color: #fff;
+}
+
+@media(min-width: 576px){
+    .home-content h1{
+        font-size: 2em;
+    }
+    
+    .home-content h2{
+        font-size: 1em;
+    }
+}
+
