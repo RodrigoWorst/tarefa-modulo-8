@@ -145,7 +145,7 @@
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1200px)  {
     .card-result-container {
       padding: 45px 35px;
     }
